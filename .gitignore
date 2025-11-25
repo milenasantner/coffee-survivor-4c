@@ -42,6 +42,7 @@ Packages/manifest-temp.json
 *.dll
 *.log
 *.tmp
+*.meta
 
 # --- Crash & Report Files ---
 sysinfo.txt
