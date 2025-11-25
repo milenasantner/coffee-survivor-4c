@@ -1,5 +1,13 @@
 # Coffee Survivor - Game Design Document
 
+**WICHTIG**: AM ANFANG: 
+```
+git config --global http.version HTTP/1.1
+git config --global http.postBuffer 524288000
+git config --global http.sslVerify true
+```
+Dadurch kann man große Files auf Github laden
+
 **WICHTIG: IN UNITY IMMER IN EINER SZENE PRO PERSON ARBEITEN.**
 
 **WICHTIG: NACH JEDEM TASK:**
